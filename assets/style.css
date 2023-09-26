@@ -1,8 +1,8 @@
-h1 {
+#h1_blue {
     color: blue;
 }
 
-p {
+#p_yellow_center {
     background-color: yellow;
     text-align: center;
 }
